@@ -1,3 +1,7 @@
+## Program Information
+This deep learning program was created with Microsoft Azure and their Custom Vision API. The program utilises a Conolutional Neural Network (CNN), a kind of Artificial Neural Network used in image recognition and processing. 
+The goal of this program is to identify if a given image is a dog or a cat.
+
 How to build:
 ==============================================
 
@@ -22,3 +26,5 @@ e.g.
     curl -X POST http://127.0.0.1/url -d '{ "url": "<test url here>" }'
 
 For information on how to use these files to create and deploy through AzureML check out the readme.txt in the azureml directory.
+
+
